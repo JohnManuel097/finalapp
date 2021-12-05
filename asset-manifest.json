@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/finalapp/static/css/main.83e78633.chunk.css",
+    "main.js": "/finalapp/static/js/main.50a66919.chunk.js",
+    "main.js.map": "/finalapp/static/js/main.50a66919.chunk.js.map",
+    "runtime-main.js": "/finalapp/static/js/runtime-main.a100c06e.js",
+    "runtime-main.js.map": "/finalapp/static/js/runtime-main.a100c06e.js.map",
+    "static/css/2.58a45539.chunk.css": "/finalapp/static/css/2.58a45539.chunk.css",
+    "static/js/2.e35d51c5.chunk.js": "/finalapp/static/js/2.e35d51c5.chunk.js",
+    "static/js/2.e35d51c5.chunk.js.map": "/finalapp/static/js/2.e35d51c5.chunk.js.map",
+    "static/js/3.7be799b5.chunk.js": "/finalapp/static/js/3.7be799b5.chunk.js",
+    "static/js/3.7be799b5.chunk.js.map": "/finalapp/static/js/3.7be799b5.chunk.js.map",
+    "index.html": "/finalapp/index.html",
+    "service-worker.js": "/finalapp/service-worker.js",
+    "service-worker.js.map": "/finalapp/service-worker.js.map",
+    "static/css/2.58a45539.chunk.css.map": "/finalapp/static/css/2.58a45539.chunk.css.map",
+    "static/css/main.83e78633.chunk.css.map": "/finalapp/static/css/main.83e78633.chunk.css.map",
+    "static/js/2.e35d51c5.chunk.js.LICENSE.txt": "/finalapp/static/js/2.e35d51c5.chunk.js.LICENSE.txt",
+    "static/media/login.css": "/finalapp/static/media/Logo.fe584fd0.jpeg",
+    "static/media/nosotros.css": "/finalapp/static/media/Xforce.7eddf8a8.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a100c06e.js",
+    "static/css/2.58a45539.chunk.css",
+    "static/js/2.e35d51c5.chunk.js",
+    "static/css/main.83e78633.chunk.css",
+    "static/js/main.50a66919.chunk.js"
+  ]
+}
